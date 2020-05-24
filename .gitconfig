@@ -1,0 +1,5 @@
+[user]
+	email = accounts@1cyber.com.au
+	name = 1Cyber Accounts
+[alias]
+	hist = log --all --decorate --oneline --graph
